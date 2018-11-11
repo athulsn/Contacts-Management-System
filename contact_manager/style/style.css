@@ -1,0 +1,26 @@
+.btn {
+    margin-left: 5px;
+}
+
+body {
+    background-color: black!important;
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.mainpanel{
+    min-height: 700px;
+    padding:40px;
+}
+
+.errr {
+    color: #e41f1f
+}
+
+.fields {
+    width: 35%;
+}
